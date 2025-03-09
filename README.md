@@ -2,7 +2,7 @@
 
 <img src="https://media.tenor.com/AOdIxLQUvVcAAAAC/pink-aesthetic.gif" alt="Pixel Art" align="right" width="200">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,java,spring,python,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,lua,bots,discord,java,godot,linux,git)](https://skillicons.dev)
 
 ### GitHub Stats
 
